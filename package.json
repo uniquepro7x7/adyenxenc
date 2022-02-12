@@ -1,0 +1,16 @@
+{
+  "name": "adyen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-adyen-encrypt": "^2.3.1",
+    "querystring": "^0.2.1"
+  }
+}
